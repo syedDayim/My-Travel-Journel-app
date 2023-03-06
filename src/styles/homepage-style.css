@@ -1,0 +1,37 @@
+.homepage-item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 70px;
+}
+
+.top-line{
+    display: flex;
+    font-family: inter;
+    /* border: 2px solid red; */
+}
+
+.top-line > a {
+    color: #918E9B;
+}
+
+.move-right{
+    padding-right: 15px;
+}
+
+
+.detail-container{
+    margin-left: 21px;
+    font-family: inter;
+}
+
+.detail-container > h1{
+    margin-top: 9px;
+    margin-bottom: 20px;
+}
+
+.detail-container > p{
+    margin-bottom: 7px;
+}
